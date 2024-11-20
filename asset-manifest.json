@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/password-genarator/static/css/main.c48d57a4.css",
+    "main.js": "/password-genarator/static/js/main.02eb5d5e.js",
+    "index.html": "/password-genarator/index.html",
+    "main.c48d57a4.css.map": "/password-genarator/static/css/main.c48d57a4.css.map",
+    "main.02eb5d5e.js.map": "/password-genarator/static/js/main.02eb5d5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c48d57a4.css",
+    "static/js/main.02eb5d5e.js"
+  ]
+}
